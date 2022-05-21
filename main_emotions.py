@@ -5,11 +5,10 @@ from signal_filtering import signal_filtering
 import mne
 from patient_information import patient_information
 from psd_calculation import eeg_analysis
-from SSA_filtering import SSA_filtering
 
-routes = [""]
+routes = [""] # Route of the EEG file or files (format file: .cnt)
 
-marks = [""]
+marks = [""] # Route of emotions marks (format file: .csv)
 
 finalraw = {}
 isGroupAnalysis = False
@@ -54,7 +53,7 @@ for idx in range(len(routes)):
              filt_objects_segment]
     emotion = ['Joy', 'Anger', 'Fear', 'Sadness', 'Neutral', 'Objects']
 
-    workbook = xlsxwriter.Workbook(file_name)
+    workbook = xlsxwriter.Workbook(file_name) # File generated with all calculations per patient
 
     for index in range(len(final)):
         title = emotion[index]
@@ -67,7 +66,7 @@ if isGroupAnalysis:
     final = [finaljoy, finalanger, finalfear, finalsadness, finalneutral, finalobjects]
     emotion = ['Joy', 'Anger', 'Fear', 'Sadness', 'Neutral', 'Objects']
 
-    workbook = xlsxwriter.Workbook(file_name)
+    workbook = xlsxwriter.Workbook(file_name) # File generated with all calculations per group
 
     for index in range(len(final)):
         eeg_analysis(final[index], name, age, laterality, group, state, index, workbook, emotion[index]) #Frequency, amplitude and PSD calculation
