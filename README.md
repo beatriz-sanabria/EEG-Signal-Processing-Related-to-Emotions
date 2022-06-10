@@ -17,7 +17,7 @@ and another one with the maps of the spectral power in the frequency bands: delt
 beta 2, and gamma. Further, all the calculated values ​​are printed in the console.
 
 Finally, when the program ends, an excel file was created with the patient information and all the data 
-printed in the console.
+printed in the console. The following images are examples of the outputs.
 
 ![Captura de Pantalla 2022-06-09 a la(s) 19 30 24](https://user-images.githubusercontent.com/60671532/172968099-47743c83-d285-4969-ac6d-767be93f4f19.png)
 
