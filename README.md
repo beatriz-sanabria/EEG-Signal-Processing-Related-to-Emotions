@@ -20,6 +20,8 @@ Finally, when the program ends, an excel file was created with the patient infor
 printed in the console. The following images are examples of the outputs.
 
 ![Captura de Pantalla 2022-06-09 a la(s) 19 30 24](https://user-images.githubusercontent.com/60671532/172968099-47743c83-d285-4969-ac6d-767be93f4f19.png)
+Fig. 1 Emotion test. Presentation scheme and duration of stimuli 
+(Data from the Laboratorio de Psicobiología, Facultad de Psicología, Universidad Veracruzana).
 
 ![AlejandroMarquezCaballero_Joy](https://user-images.githubusercontent.com/60671532/172968154-e1a238b5-0a35-4893-9490-8ef46c1ee4a8.png)
 
@@ -32,8 +34,6 @@ printed in the console. The following images are examples of the outputs.
 ![AlejandroMarquezCaballero_Neutral](https://user-images.githubusercontent.com/60671532/172968326-2d1395a4-cf93-45a8-9354-af4234fc6a24.png)
 
 ![AlejandroMarquezCaballero_Objects](https://user-images.githubusercontent.com/60671532/172968346-d20fd6a3-1530-4981-b419-4fe4d9c038b1.png)
-
-
 
 
 
