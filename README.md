@@ -24,18 +24,22 @@ Fig. 1 Emotion test. Presentation scheme and duration of stimuli
 (Data from the Laboratorio de Psicobiología, Facultad de Psicología, Universidad Veracruzana).
 
 ![AlejandroMarquezCaballero_Joy](https://user-images.githubusercontent.com/60671532/172968154-e1a238b5-0a35-4893-9490-8ef46c1ee4a8.png)
+Fig. 2 Absolute power calculated from the emotion test:  Joy
 
 ![AlejandroMarquezCaballero_Sadness](https://user-images.githubusercontent.com/60671532/172968302-3c4e4be0-35fc-4fe2-8ae0-0acb32b5c1d5.png)
+Fig. 3 Absolute power calculated from the emotion test:  Sadness
 
 ![AlejandroMarquezCaballero_Anger](https://user-images.githubusercontent.com/60671532/172968315-654e1cf4-f41e-46f3-af31-12ec9a7297fb.png)
+Fig. 4 Absolute power calculated from the emotion test: Anger
 
 ![AlejandroMarquezCaballero_Fear](https://user-images.githubusercontent.com/60671532/172968320-131f72e9-9e21-4c3b-a92b-c11ef37c1623.png)
+Fig. 5 Absolute power calculated from the emotion test: Fear
 
 ![AlejandroMarquezCaballero_Neutral](https://user-images.githubusercontent.com/60671532/172968326-2d1395a4-cf93-45a8-9354-af4234fc6a24.png)
+Fig. 6 Absolute power calculated from the emotion test: Neutral expression 
 
 ![AlejandroMarquezCaballero_Objects](https://user-images.githubusercontent.com/60671532/172968346-d20fd6a3-1530-4981-b419-4fe4d9c038b1.png)
-
-
+Fig. 7 Absolute power calculated from the emotion test: Objects
 
 *** The purpose of this repository is to show the main file and the results we obtained after running it.
     All the codes were programmed in Python.
